@@ -1,0 +1,1 @@
+simple slider de personnalité avec action prev next et random sur btn
